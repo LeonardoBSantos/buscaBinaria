@@ -4,5 +4,5 @@ Neste repositório, você encontrará uma implementação da busca binária em c
 
 ## Fontes
 
-[Teoria da Ciência da Computação > Unidade 1 > Busca Binária](https://pt.khanacademy.org/computing/computer-science/algorithms/binary-search/a/implementing-binary-search-of-an-array)
+[Teoria da Ciência da Computação > Unidade 1 > Busca Binária](https://pt.khanacademy.org/computing/computer-science/algorithms/binary-search/a/implementing-binary-search-of-an-array)\
 [Projeto de algoritmos](https://users.ime.usp.br/~pf/algoritmos/aulas/array.html)
